@@ -1,2 +1,15 @@
-# Treinamento Back-End sobre API
-Repositório com o treinamento de APIs do Wakanda Academy
+[TRAINING - BACK-END]
+
+Respositório com os arquivos do treinamento sobre APIs Rest com Spring Boot, na plataforma Alura, com os objetivos de aprendizado, 
+prática e registros de anotações interessantes, obtidas durante o desenvolvimento do projeto.
+
+OBS: Anotações na parte inferior do código, para posteriores consultas.
+
+TECNOLOGIAS PRATICADAS
++ Java
++ API Rest
++ Spring Boot
++ Banco de Dados: H2
++ Persistência com JPA/Hibernate
++ Git / GitHub
+
